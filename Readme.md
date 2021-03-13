@@ -31,21 +31,21 @@ CRUD methods
     http://locathost:8080/v1/read/{variable}
     http://locathost:8080
   
-  ##POST
+  ## POST
      
     http://locathost:8080/v1/insert
     http://locathost:8080/v1/exper
     http://locathost:8080/v1/certification
     http://locathost:8080/v1/equvlance
   
-  ##PUT
+  ## PUT
   
     http://locathost:8080/v1/EditPerson
     http://locathost:8080/v1/exper
     http://locathost:8080/v1/certification
     http://locathost:8080/v1/equvlance
     
-  ##DELETE
+  ## DELETE
   
     http://locathost:8080/v1/deletePerson
     http://locathost:8080/v1/delete/{id}
