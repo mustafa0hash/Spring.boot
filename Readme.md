@@ -7,10 +7,10 @@ Main application in package demo2
 
 ###################################################
 
-setting the database
-    1- execute sql line creat database mydb
-    or change the schema name in application.properties inside resource folder
-    2- update username and password in application.properties 
+setting the database  
+    1- execute sql line creat database mydb  
+    or change the schema name in application.properties inside resource folder  
+    2- update username and password in application.properties  
 
 ## Requirements
 
