@@ -2,6 +2,9 @@
 
 
 
+
+Main application in package demo2
+
 ###################################################
 
 setting the database
