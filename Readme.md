@@ -46,6 +46,7 @@ CRUD methods
     http://locathost:8080/v1/equvlance
     
   ##DELETE
+  
     http://locathost:8080/v1/deletePerson
     http://locathost:8080/v1/delete/{id}
   
