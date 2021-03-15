@@ -55,3 +55,11 @@ CRUD methods
   
 
 
+## online api heroku 
+with embeded database derby
+
+Test connection : https://herokuspringbootv1.herokuapp.com/v1/hello
+Post requrst    :https://herokuspringbootv1.herokuapp.com/v1/insert
+Get request     :https://herokuspringbootv1.herokuapp.com/v1/read
+
+JSON format found in jsonfile.txt
