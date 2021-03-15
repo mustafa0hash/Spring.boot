@@ -1,0 +1,59 @@
+url to server 
+
+	1- https://herokuspringbootv1.herokuapp.com/v1/insert
+	2- https://herokuspringbootv1.herokuapp.com/v1/read
+
+-------------
+json to send 
+-------------
+
+
+[{
+    "person_id": 1,
+    "firstname": "1",
+    "third_name": "1",
+    "fourth_name": "1",
+    "last_name": null,
+    "mother_name": "1",
+    "card_type": 1,
+    "personal_card_no": "1",
+    "phone_no1": "1",
+    "phone_no2": "1",
+    "email": "1",
+    "foundation_info": "1",
+    "city": "1",
+    "city_madina": "1",
+    "city_kadaa": "1",
+    "city_hay": "1",
+    "near_point": "1",
+    "mahala": "1",
+    "zukak": "111",
+    "dar": "1",
+    "job_title": "1",
+    "experiences": [{
+        "id": 1,
+        "exid": 1,
+        "company": "1",
+        "job_title": "1",
+        "iscontinous": "1",
+        "first_enroll": "1",
+        "end_data": "1",
+        "work_in_another_palce": "1"
+    }],
+    "equvlances": [{
+        "id": 1,
+        "fkey": 1,
+        "description": "1",
+        "level": "1",
+        "equv_name": "1"
+    }],
+    "certifications": [{
+        "id": 1,
+        "person_idf": 1,
+        "degree": "1",
+        "edu_place_name": "1",
+        "edu_type": "1",
+        "year_graduation": "1"
+    }],
+    "second_name": "1"
+}]
